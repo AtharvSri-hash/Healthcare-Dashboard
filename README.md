@@ -7,6 +7,13 @@ Healthcare Patient Monitoring Dashboard - Advanced Java Project
 A real-time Healthcare Patient Monitoring Dashboard built using Advanced Java concepts. 
 This system monitors patient health data and alerts medical staff about abnormal conditions.
 
+## 🎯 Objectives
+- To monitor patient health data in real-time
+- To detect abnormal health conditions and generate alerts
+- To design an interactive dashboard for healthcare staff
+- To implement Advanced Java concepts in a real-world application
+
+  
 ## Features
 - Real-time patient health monitoring
 - Displays Heart Rate, Blood Pressure, and Temperature
@@ -37,10 +44,10 @@ Healthcare-Dashboard/
 ## Team Members
 | Member | Role |
 |--------|------|
-| Member 1 | Backend Logic (Patient class, Alert system) |
+| Kavyansh | Backend Logic (Patient class, Alert system) |
 | Member 2 | UI Design (Dashboard layout) |
 | Member 3 | Database (MySQL + JDBC) |
-| Member 4 | Integration + GitHub + Documentation |
+| Kasak Singh| Integration + GitHub + Documentation |
 
 ## Alert Conditions
 - Heart Rate > 120 or < 60 → WARNING
