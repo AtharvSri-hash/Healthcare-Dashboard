@@ -30,6 +30,16 @@ This system monitors patient health data and alerts medical staff about abnormal
 - Multithreading
 - OOP Concepts
 
+## Dashboard Preview
+
+### Main Dashboard
+
+
+### Patient Data
+
+
+### Alert System 
+
 ## How to Run
 1. Clone this repository
    git clone https://github.com/Kasak-beep/Healthcare-Dashboard
