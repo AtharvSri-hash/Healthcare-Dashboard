@@ -54,9 +54,9 @@ Healthcare-Dashboard/
 ## Team Members
 | Member | Role |
 |--------|------|
-| Kavyansh | Backend Logic (Patient class, Alert system) |
-| Member 2 | UI Design (Dashboard layout) |
-| Member 3 | Database (MySQL + JDBC) |
+| Shreyash Singh | Backend Logic (Patient class, Alert system) |
+| Atharav | UI Design (Dashboard layout) |
+| Kavyansh Vats | Database (MySQL + JDBC) |
 | Kasak Singh| Integration + GitHub + Documentation |
 
 ## Alert Conditions
