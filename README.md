@@ -54,31 +54,8 @@ This system monitors patient health data and alerts medical staff about abnormal
 
 ## Project Structure
 Healthcare-Dashboard/
-│
-├── .idea/                 # IDE Configuration files
-├── assets/                # Screenshots and UI icons for Documentation
-│   ├── dashboard_main.png
-│   ├── patient_data.png
-│   └── alert_system.png
-│
-├── lib/                   # External Libraries
-│   └── mysql-connector-j.jar  # JDBC Driver for MySQL integration
-│
-├── src/                   # Source Code
-│   ├── model/             # DATA LAYER (Backend)
-│   │   ├── Patient.java       # Patient Data Model (Getters/Setters)
-│   │   └── Alert.java         # Alert Object Model
-│   │
-│   ├── service/           # LOGIC LAYER (Middleware)
-│   │   └── AlertService.java  # Health threshold logic & status calculation
-│   │
-│   ├── DashboardUI.java   # PRESENTATION LAYER (Frontend - Swing UI)
-│   ├── DBConnection.java  # Database Connection Utility (JDBC)
-│   ├── FetchPatients.java # SQL Query Logic (SELECT)
-│   └── InsertPatient.java # SQL Data Entry (INSERT)
-│
-├── .gitignore             # Files to exclude from GitHub (out/, .class)
-└── README.md              # Project Documentation & Contribution Report
+![Project Structure](./assets/Projectstructure.png)
+
 
 
 
