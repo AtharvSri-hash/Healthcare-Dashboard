@@ -86,7 +86,7 @@ Healthcare-Dashboard/
 | Member | Role |
 |--------|------|
 | Shreyash Singh | Backend Logic (Patient class, Alert system) |
-| Atharav | UI Design (Dashboard layout) |
+| Atharv Srivastava | UI Design (Dashboard layout) |
 | Kavyansh Vats | Database (MySQL + JDBC) |
 | Kasak Singh| Integration + GitHub + Documentation |
 
