@@ -33,12 +33,17 @@ This system monitors patient health data and alerts medical staff about abnormal
 ## Dashboard Preview
 
 ### Main Dashboard
+![Main Dashboard](./assets/Maindashboard.png)
+
 
 
 ### Patient Data
+![Patient Data](./assets/working.png)
+
 
 
 ### Alert System 
+![Alert System](./assets/Alert.png)
 
 ## How to Run
 1. Clone this repository
